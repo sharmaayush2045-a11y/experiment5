@@ -5,12 +5,6 @@ Users can type in a textarea and instantly see character count, word count, rema
 
 ---
 
-## 🚀 Demo
-
-> Type in the textarea → stats update live → warning appears near/at the limit → clear or save your draft.
-
----
-
 ## 📁 Folder Structure
 
 ```
